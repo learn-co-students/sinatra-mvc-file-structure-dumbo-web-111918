@@ -1,4 +1,4 @@
-# Sinatra MVC File Structure
+<!-- # Sinatra MVC File Structure
 
 ## Overview
 
@@ -23,7 +23,7 @@ keep these responsibilities split up into reasonable chunks.
 
 You'll be coding along in this lesson so fork and clone this lab. There are
 tests to run to make sure your solutions are working. Find the instructions
-underneath the descriptions for each file you'll be editing.
+underneath the descriptions for each file you'll be editing. -->
 
 ## What does a Sinatra MVC File Structure Look Like?
 
@@ -54,7 +54,7 @@ folders and discuss what their responsibilities are.
 ```
 
 ### `Gemfile`
-
+<!-- 
 This holds a list of all the gems needed to run the application. The bundler
 gem provides us access to a terminal command: `bundle install`. Bundler will
 look in the Gemfile and install any gems, as well as any gem dependencies for
@@ -62,7 +62,7 @@ this application.
 
 Go ahead and enter this command in terminal. It will create a `Gemfile.lock`
 file for you, which is just a documentation of the specific gems version that
-should be installed.
+should be installed. -->
 
 ### `app` directory
 
