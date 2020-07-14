@@ -1,4 +1,3 @@
-# Sinatra MVC File Structure
 
 ## Overview
 
